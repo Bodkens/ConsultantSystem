@@ -1,0 +1,144 @@
+{
+  "logs": [
+    {
+      "Login": "test2",
+      "Date": "2022-12-05T02:11:42.8836531+01:00",
+      "Action": "login"
+    },
+    {
+      "Login": "test2",
+      "Date": "2022-12-05T02:14:01.963029+01:00",
+      "Action": "login"
+    },
+    {
+      "Login": "test2",
+      "Date": "2022-12-05T02:22:19.2813901+01:00",
+      "Action": "login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-05T02:33:06.3061431+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-05T02:33:10.9742894+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-05T17:00:47.2122779+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-05T17:01:25.9824892+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "moz212",
+      "Date": "2022-12-05T17:05:58.8430353+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "moz212",
+      "Date": "2022-12-05T17:07:37.5106537+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T11:44:41.9900343+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T11:45:01.5676619+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T13:56:35.8583165+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T13:57:25.2612495+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "moz212",
+      "Date": "2022-12-06T14:05:08.4894579+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "moz212",
+      "Date": "2022-12-06T14:07:08.2640716+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "moz212",
+      "Date": "2022-12-06T14:07:23.3275426+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T14:07:35.2628801+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T14:08:13.0326511+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:32:44.1979976+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:33:24.684562+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:36:30.0639516+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:36:39.7138596+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:39:15.7101273+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:39:23.2021009+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:43:47.200781+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:44:26.9573881+01:00",
+      "Action": "Signing Out"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:45:53.1260573+01:00",
+      "Action": "Login"
+    },
+    {
+      "Login": "rie0050",
+      "Date": "2022-12-06T17:47:52.3680291+01:00",
+      "Action": "Signing Out"
+    }
+  ]
+}
