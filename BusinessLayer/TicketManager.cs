@@ -37,6 +37,7 @@ namespace BusinessLayer
 
             return true;
         }
+        //Loading All unasigned Tickets
         public static void LoadNewTicketsList()
         {
             Gateway.OpenConnectionToDatabase();
@@ -95,7 +96,7 @@ namespace BusinessLayer
             Gateway.CloseConnectionToDatabase();
         }
 
-
+        //Loading Tickets assifgned to current consultnat
         public static void LoadMyTicketsList()
         {
 
@@ -155,6 +156,7 @@ namespace BusinessLayer
             Gateway.CloseConnectionToDatabase();
         }
 
+        //Identity Map for prevenetning adding a 
         private static bool TicketIdentityMapCheckExistByID(int id, List<Ticket> ticketList)
         {
 
@@ -200,7 +202,7 @@ namespace BusinessLayer
 
             MyTickets.AddRange(newList);
         }
-
+        //Assign ticket to logined consultant
         public static bool AssignTicket(Ticket ticket)
         {
             if (ticket.State == "NEW")
@@ -218,6 +220,7 @@ namespace BusinessLayer
             }
             return false;
         }
+        //Deassign ticket from cuurent consultant and return it to shared list
         public static bool ReturnTicket(Ticket ticket)
         {
             if (ticket.State == "ASSIGNED")
@@ -234,6 +237,7 @@ namespace BusinessLayer
 
             return false;
         }
+        //Close Ticket
         public static bool CloseTicket(Ticket ticket)
         {
 
